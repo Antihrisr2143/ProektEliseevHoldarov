@@ -18,7 +18,7 @@ struct rabotnik {
 	char post;
 
 };
-
+/
 
 
 
