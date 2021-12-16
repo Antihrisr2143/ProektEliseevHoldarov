@@ -25,6 +25,7 @@ s1.age = 18;
 s1.post = rab;
 s1.opening_hors = 70;
 s1.prize = 1500;
+cout >> s1;
 
 
 
